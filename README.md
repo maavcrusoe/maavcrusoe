@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @maavcrusoe
-- 👀 I’m interested in TelegramBots
+- 👀 I’m interested in TelegramBots, automations and Flows
+- 🧪 Experimenting all on 365
+- 👨‍🎓 Learning PowerApps
+- ❤ Python
 
 
 <!---
