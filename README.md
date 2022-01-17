@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @maavcrusoe
 - 👀 I’m interested in TelegramBots, automations and Flows
-- 🧪 Testing automations on MS Graph
-- ❤ Python & PS
+- 🧪 Testing MS Graph
+- 🐍 Python 
+- ❤ PS
+- A little bit of JS
 
 
 <!---
