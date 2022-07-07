@@ -23,5 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 
 Connect with me:
-
-(https://www.twitter.com/maavcrusoe)![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://www.twitter.com/maavcrusoe)
