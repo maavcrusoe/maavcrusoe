@@ -3,7 +3,7 @@
 - 👨‍🎓 MSFT 365 ecosystem PowerApps,Flow,SPO,EXO,Azure,Teams, ♾
 - 🤙🏽 MS Graph
 - 🐍 Python fanboy
-- ❤ PS lover
+- ❤ PowerShell lover
 - A little bit of JS for my personal financial spreadsheet
 - 🏍🚴‍♂️✈🌍📸 on my freetime
 
