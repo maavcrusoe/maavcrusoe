@@ -4,7 +4,7 @@
 - 🐍 Python fanboy
 - ❤ PS lover
 - A little bit of JS for my personal financial spreadsheet
--🏍🚴‍♂️✈🌍📸 on my freetime
+- 🏍🚴‍♂️✈🌍📸 on my freetime
 
 
 
