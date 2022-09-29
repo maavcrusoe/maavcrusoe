@@ -4,6 +4,7 @@
 - 🤙🏽 MS Graph
 - 🐍 Python fanboy
 - ❤ PowerShell lover
+- 🧝🏼‍♂️ Elrond Dev
 - A little bit of JS for my personal financial spreadsheet
 - 🏍🚴‍♂️✈🌍📸 on my freetime
 
