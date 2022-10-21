@@ -24,4 +24,11 @@ You can click the Preview link to take a look at your changes.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ---
+
+<p align="left">Buy me a coffe or milka ☕</p>
+
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+<p align="center">
+  <img  src="https://avatars.githubusercontent.com/u/36901296?s=200&v=4">
+</p>
