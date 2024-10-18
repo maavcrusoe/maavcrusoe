@@ -33,7 +33,9 @@ I manage complex environments using tools like **Proxmox**, **VMware**, and **Hu
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-6264A7?style=for-the-badge&logo=microsoft-graph&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)
-
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
 ---
 
